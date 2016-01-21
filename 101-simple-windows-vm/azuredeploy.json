@@ -41,7 +41,7 @@
     "sizeOfEachDataDiskInGB": {
         "type": "string",
         "metadata": {
-            "description": "Size of each data disck in GB"
+            "description": "Size of each data disk in GB"
       }
     }
   },
