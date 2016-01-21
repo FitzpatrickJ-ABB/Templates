@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "jfstore1"
+      "value": "jcfstore1"
     },
     "adminUsername": {
       "value": "admin123"
